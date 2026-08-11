@@ -29,8 +29,8 @@
         "applicationUrl": "http://localhost:5000",
         "environmentVariables": {
           "ASPNETCORE_ENVIRONMENT": "Development",
-          "HTTP_PROXY": "http://192.168.1.10:8888",
-          "HTTPS_PROXY": "http://192.168.1.10:8888"
+          "HTTP_PROXY": "http://localhost:8888",
+          "HTTPS_PROXY": "http://localhost:8888"
         }
       }
     }
